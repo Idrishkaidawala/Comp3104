@@ -2,5 +2,5 @@
 
 
 # GitHub Action Status Badge
- [![CI](https://github.com/Idrishkaidawala/Comp3104/actions/workflows/main.yml/badge.svg)](https://github.com/Idrishkaidawala/Comp3104/actions/workflows/main.yml)
+ [![CI](https://github.com/Idrishkaidawala/Comp3104/blob/main/.github/workflow/main.yml/badge.svg)](https://github.com/Idrishkaidawala/Comp3104/blob/main/.github/workflow/main.yml)
 
